@@ -1,4 +1,6 @@
 #Who are We
+
+[![Join the chat at https://gitter.im/tonyqus/nepy](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tonyqus/nepy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Neuzilla is the studio behind Toxy. For detail, you can check http://blog.neuzilla.com/
 
 #What's Nepy
